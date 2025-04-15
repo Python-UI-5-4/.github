@@ -1,4 +1,4 @@
-<h2>🟪 About Devolt</h2>
+<h2><img src="../img/logo.png" /> About Devolt</h2>
 
 <p>2025년, 우리는 개발자들이 쉽고 체계적으로 배우고 성장할 수 있도록 돕기 위해 데볼트를 시작했습니다.</p>
 <p>많은 개발자들이 프로그래밍을 독학하거나, 취업을 준비하거나, 실력을 향상시키기 위해 다양한 학습 자료를 찾아다닙니다.</p>
@@ -40,7 +40,13 @@
 - 외부 코딩 테스트 사이트 정보
 <br />
 
-<div align=center><h2>🛠️ Tech Stacks</h2></div>
+<div align=center><h2>🛠️ Architecture</h2></div>
+<p align=center>
+    <img src="../img/architecture.svg" />
+</p>
+<br>
+
+<div align=center><h2>⚙️ Tech Stacks</h2></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
